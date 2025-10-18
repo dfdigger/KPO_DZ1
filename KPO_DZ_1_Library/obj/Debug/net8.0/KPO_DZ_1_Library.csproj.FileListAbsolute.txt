@@ -1,0 +1,11 @@
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/bin/Debug/net8.0/KPO_DZ_1_Library.deps.json
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/bin/Debug/net8.0/KPO_DZ_1_Library.dll
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/bin/Debug/net8.0/KPO_DZ_1_Library.pdb
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/obj/Debug/net8.0/KPO_DZ_1_Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/obj/Debug/net8.0/KPO_DZ_1_Library.AssemblyInfoInputs.cache
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/obj/Debug/net8.0/KPO_DZ_1_Library.AssemblyInfo.cs
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/obj/Debug/net8.0/KPO_DZ_1_Library.csproj.CoreCompileInputs.cache
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/obj/Debug/net8.0/KPO_DZ_1_Library.dll
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/obj/Debug/net8.0/refint/KPO_DZ_1_Library.dll
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/obj/Debug/net8.0/KPO_DZ_1_Library.pdb
+/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1_Library/obj/Debug/net8.0/ref/KPO_DZ_1_Library.dll

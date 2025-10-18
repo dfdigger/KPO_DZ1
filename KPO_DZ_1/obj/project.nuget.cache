@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDrtdQZB7wA=",
+  "success": true,
+  "projectFilePath": "/Users/dfdigger/RiderProjects/KPO_DZ_1/KPO_DZ_1/KPO_DZ_1.csproj",
+  "expectedPackageFiles": [
+    "/Users/dfdigger/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "/Users/dfdigger/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.2.25502.107.nupkg.sha512"
+  ],
+  "logs": []
+}
